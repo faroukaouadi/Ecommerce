@@ -50,7 +50,7 @@ export default function Main() {
            MEN category
           </ToggleButton>
           <ToggleButton sx={{color: theme.palette.text.primary}} className="myButton" value="right" aria-label="right aligned">
-            Women category
+            Women category bhhhhhhhhhhhhhhhhhhhhhhh
           </ToggleButton>
 
         </ToggleButtonGroup>
